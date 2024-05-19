@@ -1,0 +1,14 @@
+{
+  "name": "zasm",
+  "version": "2024-05-15",
+  "homepage": "https://github.com/zyantific/zasm",
+  "description": "x86-64 Assembler based on Zydis",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    "zydis"
+  ]
+}

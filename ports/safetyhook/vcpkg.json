@@ -1,0 +1,21 @@
+{
+  "name": "safetyhook",
+  "version": "2024-05-15",
+  "homepage": "https://github.com/cursey/safetyhook",
+  "description": "SafetyHook is a C++23 procedure hooking library for Windows x86 and x86_64 systems. It aims to make runtime procedure hooking as safe as possible while maintaining simplicity of its implementation. ",
+  "license": "BSL-1.0",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    "zydis"
+  ],
+  "default-features": [],
+  "features": {
+    "example-feature": {
+      "description": "",
+      "dependencies": []
+    }
+  }
+}

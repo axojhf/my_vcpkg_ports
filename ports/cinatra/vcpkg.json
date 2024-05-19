@@ -1,0 +1,9 @@
+{
+  "name": "cinatra",
+  "version": "2024-05-15",
+  "homepage": "https://github.com/qicosmos/cinatra",
+  "description": "Cinatra - an efficient and easy-to-use C++ HTTP framework",
+  "dependencies": [
+    "async-simple"
+  ]
+}

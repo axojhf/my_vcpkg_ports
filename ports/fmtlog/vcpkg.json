@@ -1,0 +1,22 @@
+{
+  "name": "fmtlog",
+  "version": "2023-12-16",
+  "homepage": "https://github.com/MengRao/fmtlog",
+  "description": "fmtlog is a performant asynchronous logging library using fmt library format.",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    "fmt"
+  ],
+
+  "default-features": [],
+  "features": {
+    "example-feature": {
+      "description": "",
+      "dependencies": []
+    }
+  }
+}

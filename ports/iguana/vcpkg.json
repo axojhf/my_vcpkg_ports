@@ -1,0 +1,8 @@
+{
+  "name": "iguana",
+  "version": "1.0.5",
+  "homepage": "https://github.com/qicosmos/iguana",
+  "description": "iguana is a modern, universal and easy-to-use serialization engine developed in c++20.",
+  "dependencies": [
+  ]
+}
